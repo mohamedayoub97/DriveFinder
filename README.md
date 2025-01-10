@@ -1,6 +1,3 @@
-Here's a more **emoji-rich** version of your `README.md` file:  
-
-```markdown
 # 🚗 Car Finding App  
 
 ![iconUrl](https://github.com/mohamedayoub97/DriveFinder.git)  
